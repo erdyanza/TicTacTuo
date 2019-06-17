@@ -1,7 +1,1 @@
-# TicTacTuo_e
-# TicTacTuo_e
-# TicTacTes
-# TicTacTes
-# TicTacTes
-# TicTacTes
-# TicTacTuo
+This is my new project n first uploade in GitHub
